@@ -2,5 +2,9 @@
   "name": "mathjax",
   "version": "1.0.0",
   "main": "src/main.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mathjax-full": "^3.1.2",
+    "yargs": "^16.1.0"
+  }
 }
